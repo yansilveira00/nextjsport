@@ -7,7 +7,7 @@ function MyApp({ Component, pageProps }) {
     <>
 
     <Head>
-      <title>Portfólio</title>
+      <title>Portfólio...</title>
     </Head>
     <Component { ... pageProps} />
 
