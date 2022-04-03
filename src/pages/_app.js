@@ -7,7 +7,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
     <Head>
-      <title> Rafa | dev</title>
+      <title>Portfólio</title>
     </Head>
     <Component { ... pageProps} />
     </>
