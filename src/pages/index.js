@@ -7,7 +7,7 @@ export default function Home() {
    <Container>
      <Content>
       <Infos>
-        <Name>Olá, sou William Lucas</Name>
+        <Name>Olá, sou José Despreocupado </Name>
         <Function>FullStack Developer</Function>
         <Intro>Graduado em Sistemas de Informação, 
           tenho experiência em desenvolvimento Web
