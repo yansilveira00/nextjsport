@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { Container, Title, NavLinks, Ancora, Content, Menu, CloseSidebar, ContentTitle, SubTitle } from '../style'
+import { Container, Title, NavLinks, Ancora, Content, Menu, CloseSidebar, ContentTitle, SubTitle } from './style'
 import { FaBars, FaTimes } from 'react-icons/fa'
 import Link from 'next/link'
 import { useRouter } from 'next/router'
@@ -19,7 +19,7 @@ export default function Header() {
       <Content>
         <ContentTitle>
           <Title>
-            Rafael
+            José Despreucupado
           </Title>
           <SubTitle>
             Portfolio Pessoal
