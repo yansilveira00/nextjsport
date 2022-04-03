@@ -8,9 +8,9 @@ export default function Home() {
      <Content>
       <Infos>
         <Name>Olá, sou José Despreocupado </Name>
-        <Function>FullStack Developer</Function>
-        <Intro>Graduado em Sistemas de Informação, 
-          tenho experiência em desenvolvimento Web
+        <Function>Desenvolvedor Web</Function>
+        <Intro>Graduado em Bacharelado em Sistemas de Informação, pelo IFNMG Campus Salinas
+          em 2023, tenho experiência em desenvolvimento Web
           (React, Asp, JS e outros), mobile e criação de conteúdo para o YouTube.
         </Intro>
         <Link href="projects">
