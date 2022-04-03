@@ -19,7 +19,7 @@ export default function Header() {
       <Content>
         <ContentTitle>
           <Title>
-            José Despreucupado
+            José Despreocupado
           </Title>
           <SubTitle>
             Portfolio Pessoal
