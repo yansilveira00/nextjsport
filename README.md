@@ -44,5 +44,21 @@ Para instalar o YARN abra o terminal e digite o seguinte comando:
 
 Dessa forma as instalações do Node e Yarn estão finalizadas e testadas.
 
+Próximo passo: Sera usados dois programas, o Visual Studio Code e o GitHub Desktop
+
+O que é Visual Studio Code?
+
+O Visual Studio Code ou Vscode é um editor de código-fonte que é gratuito e está disponível no Windows, Linux e macOS.
+
+É desenvolvido e mantido pela Microsoft, inclui suporte para depuração, controle versão Git incorporado, realce de sintaxe, complementação inteligente de código, snippets e refatoração de código.
+
+Instalação do VS code no Windowns:
+
+O processo de instalação do VSCode no Windows é bem simples, basta baixar o instalador do site.
+Link para download: https://code.visualstudio.com/
+
+Em seguida, execute o instalador baixado e siga as instruções na tela, não esqueça de marcar a opção “Add to Path” para adicionar o Visual Studio Code nas variáveis de ambiente.
+
+![VsCode](https://user-images.githubusercontent.com/88038755/161541423-19c603f9-3e06-4f88-8d19-2e26de463ad2.jpeg)
 
 **Integrantes do grupo:** Luis Gustavo, Rafael Henrique e Yan Silveira.
