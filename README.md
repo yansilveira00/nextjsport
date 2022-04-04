@@ -25,7 +25,13 @@ Clique encima para executar o instalador do Node.js
 
 O usuário deverá clicar Next em todas as caixas de opção até concluir a instalação do Node.js
 
+Para verificar se a instalação foi bem sucedida execute os dois comandos a seguir em uma janela do Terminal ou Prompt de Comando. Caso esteja tudo certo, serão apresentadas as versões conforme abaixo: 
+
+![node](https://user-images.githubusercontent.com/88038755/161459792-327bbc48-ca2e-4859-8412-0dbf80c99cb2.jpeg)
+
 O Node.js é uma plataforma de execução JavaScript desenvolvida com o intuito de criar sistemas de rede escaláveis. Já o Yarn é um gerenciador de pacotes e dependências que funciona sobre o Node.js. A seguir apresentarei 4 passos para instalação e verificação do Node.js e do YARN. 
+
+
 
 
 
