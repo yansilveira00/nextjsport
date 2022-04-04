@@ -42,10 +42,7 @@ Para instalar o YARN abra o terminal e digite o seguinte comando:
 
 ![yarn](https://user-images.githubusercontent.com/88038755/161460120-12a0a340-5762-44d1-a2e7-cc5c3ea97cbe.jpeg)
 
-
-
-
-
+Dessa forma as instalações do Node e Yarn estão finalizadas e testadas.
 
 
 **Integrantes do grupo:** Luis Gustavo, Rafael Henrique e Yan Silveira.
