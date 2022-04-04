@@ -25,7 +25,14 @@ Clique encima para executar o instalador do Node.js
 
 O usuário deverá clicar Next em todas as caixas de opção até concluir a instalação do Node.js
 
-Para verificar se a instalação foi bem sucedida execute os dois comandos a seguir em uma janela do Terminal ou Prompt de Comando. Caso esteja tudo certo, serão apresentadas as versões conforme abaixo: 
+Para verificar se a instalação foi bem sucedida execute os dois comandos a seguir em uma janela do Terminal ou Prompt de Comando.
+![digiCMD](https://user-images.githubusercontent.com/88038755/161460943-9e077dfb-733f-4bc1-8e09-6925970e693f.jpeg)
+
+![PCMD](https://user-images.githubusercontent.com/88038755/161461050-f3fa6516-8fa1-4b3c-8c04-21905afa7fe9.jpeg)
+
+![CMDAberto](https://user-images.githubusercontent.com/88038755/161461114-06d3778d-5ad4-4d14-b95a-21a439608654.jpeg)
+ 
+ Caso esteja tudo certo, serão apresentadas as versões conforme abaixo: 
 
 ![node](https://user-images.githubusercontent.com/88038755/161459792-327bbc48-ca2e-4859-8412-0dbf80c99cb2.jpeg)
 
