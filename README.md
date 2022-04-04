@@ -5,8 +5,7 @@ Desenvolvimento WEB com o framework Next.JS - Criação de um Portfolio.
 Para usar o framework Next.js é necessari instalar algumas ferramentas.
 São elas: node.js o Yarn e o chocolatey.
 
-Para instalar o chocolatey é preciso acessar o site: 
-https://community.chocolatey.org/
+O Node.js é uma plataforma de execução JavaScript desenvolvida com o intuito de criar sistemas de rede escaláveis. Já o Yarn é um gerenciador de pacotes e dependências que funciona sobre o Node.js. A seguir apresentarei 4 passos para instalação e verificação do Node.js e do YARN. 
 
 
 
