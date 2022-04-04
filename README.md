@@ -64,7 +64,12 @@ Em seguida, execute o instalador baixado e siga as instruções na tela, não es
 Agora vamos baixar o GitHub Desktop:
 Link: https://desktop.github.com/
 
+O processo de instalação do GitHub no Windows é bem simples, basta baixar o instalador do site.
+
 ![git](https://user-images.githubusercontent.com/88038755/161553003-9f223ee4-b318-43a9-ab2f-1b68b60009e6.jpeg)
+
+Em seguida, execute o instalador baixado e siga as instruções na tela.
+
 
 
 
