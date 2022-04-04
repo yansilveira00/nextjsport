@@ -27,11 +27,11 @@ O usuário deverá clicar Next em todas as caixas de opção até concluir a ins
 
 Para verificar se a instalação foi bem sucedida execute os dois comandos a seguir em uma janela do Terminal ou Prompt de Comando.
 ![digiCMD](https://user-images.githubusercontent.com/88038755/161460943-9e077dfb-733f-4bc1-8e09-6925970e693f.jpeg)
-
+Pesquise por CMD na caixa de pesquisa:
 ![PCMD](https://user-images.githubusercontent.com/88038755/161461050-f3fa6516-8fa1-4b3c-8c04-21905afa7fe9.jpeg)
-
+Execute como Administrador:
 ![CMDAberto](https://user-images.githubusercontent.com/88038755/161461114-06d3778d-5ad4-4d14-b95a-21a439608654.jpeg)
- 
+ Digite os comandos acima dentro do CMD.
  Caso esteja tudo certo, serão apresentadas as versões conforme abaixo: 
 
 ![node](https://user-images.githubusercontent.com/88038755/161459792-327bbc48-ca2e-4859-8412-0dbf80c99cb2.jpeg)
