@@ -57,8 +57,12 @@ Instalação do VS code no Windowns:
 O processo de instalação do VSCode no Windows é bem simples, basta baixar o instalador do site.
 Link para download: https://code.visualstudio.com/
 
+![VsCode](https://user-images.githubusercontent.com/88038755/161541423-19c603f9-3e06-4f88-8d19-2e26de463ad2.jpeg)
+
 Em seguida, execute o instalador baixado e siga as instruções na tela, não esqueça de marcar a opção “Add to Path” para adicionar o Visual Studio Code nas variáveis de ambiente.
 
-![VsCode](https://user-images.githubusercontent.com/88038755/161541423-19c603f9-3e06-4f88-8d19-2e26de463ad2.jpeg)
+
+
+
 
 **Integrantes do grupo:** Luis Gustavo, Rafael Henrique e Yan Silveira.
