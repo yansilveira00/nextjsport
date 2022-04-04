@@ -61,7 +61,10 @@ Link para download: https://code.visualstudio.com/
 
 Em seguida, execute o instalador baixado e siga as instruções na tela, não esqueça de marcar a opção “Add to Path” para adicionar o Visual Studio Code nas variáveis de ambiente.
 
+Agora vamos baixar o GitHub Desktop:
+Link: https://desktop.github.com/
 
+![VsCode](https://user-images.githubusercontent.com/88038755/161552353-c42a58bd-8fea-4a45-89b3-8472c2403456.jpeg)
 
 
 
