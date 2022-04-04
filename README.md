@@ -64,7 +64,7 @@ Em seguida, execute o instalador baixado e siga as instruções na tela, não es
 Agora vamos baixar o GitHub Desktop:
 Link: https://desktop.github.com/
 
-![VsCode](https://user-images.githubusercontent.com/88038755/161552353-c42a58bd-8fea-4a45-89b3-8472c2403456.jpeg)
+![git](https://user-images.githubusercontent.com/88038755/161553003-9f223ee4-b318-43a9-ab2f-1b68b60009e6.jpeg)
 
 
 
