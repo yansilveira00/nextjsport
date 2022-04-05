@@ -109,6 +109,17 @@ Para rodar o projeto, é usado o yarn dev
 Com esse comando é possivel ter acesso ao link para ver o resultado do desenvolvimento do projeto pelo navegador.
 Copiando e colando a url no navegador.
 
+Vamos fazer mais algumas instalações:
+
+yarn add styled-components 
+
+Ela é utilizada para fazer a estilização.
+
+A outra instalação é referente a react icons:
+
+yarn add react-icons --save
+
+Essa instalação é usada para evitar comflitos em styled components.
 
 
 
