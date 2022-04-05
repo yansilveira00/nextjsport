@@ -20,6 +20,9 @@
     "eslint": "8.12.0",
     "eslint-config-next": "12.1.4"
   },
+  "resolutions": {
+    "styled-components": "^5"
+  },
   "main": "index.js",
   "repository": "https://github.com/yansilveira00/nextjsport.git",
   "author": "rhams1997 <88038755+rhams1997@users.noreply.github.com>",
