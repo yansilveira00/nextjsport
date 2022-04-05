@@ -70,6 +70,37 @@ O processo de instalação do GitHub no Windows é bem simples, basta baixar o i
 
 Em seguida, execute o instalador baixado e siga as instruções na tela.
 
+Com o Visual Studio Code e o GitHub instalados, vamos clonar o repositório do GitHub no GitHub Desktop.
+
+Clique em Code:
+
+![pegando o link](https://user-images.githubusercontent.com/88038755/161653730-b2f4a48a-b79b-431f-8a7d-03f275e9bd4d.jpeg)
+
+Posteriormente clique em copiar link.
+
+Pesquise pelo GitHub Desktop e execute.
+![abreGit](https://user-images.githubusercontent.com/88038755/161653980-26fb4259-74eb-4fe5-9422-ef4e9d9a2596.jpeg)
+
+Agora clique em ADD para clonar o repositório.
+
+![coleOlink](https://user-images.githubusercontent.com/88038755/161654110-99486c36-7cb5-48bd-94b7-8c619be19316.jpeg)
+
+Cole o link dentro da caixa e clique em clonar.
+
+Agora com o projeto selecionado no GitHub Desktop, clique em abrir projeto com o Visual Studio Code:
+
+![AbraNoVSCODE](https://user-images.githubusercontent.com/88038755/161654271-8b12d3ad-ac17-4a98-8d3c-bf507d8c29d1.jpeg)
+
+Após isso ira abrir o VS code.
+
+![AbraOterminal](https://user-images.githubusercontent.com/88038755/161654352-724f3e9b-ac9b-4793-b2fa-4b7fb89a5bf9.jpeg)
+
+Abra o terminal do VS code e digite o seguinte comando:
+
+
+
+
+
 
 
 
