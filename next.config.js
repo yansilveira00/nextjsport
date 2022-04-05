@@ -9,6 +9,6 @@ const nextConfig = {
 const isProd = process.env.NODE_ENV === 'production'
 
 module.exports = {
-  assetPrefix: isProd ? '/nextjsport/' : '',
-  nextConfig
+  nextConfig,
+  pageExtensions: ['page.tsx', 'page.ts', 'page.jsx', 'page.js']
 };
