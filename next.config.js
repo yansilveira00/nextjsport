@@ -9,6 +9,5 @@ const nextConfig = {
 const isProd = process.env.NODE_ENV === 'production'
 
 module.exports = {
-  nextConfig,
-  pageExtensions: ['page.tsx', 'page.ts', 'page.jsx', 'page.js']
+  nextConfig
 };
