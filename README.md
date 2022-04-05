@@ -96,6 +96,18 @@ Após isso ira abrir o VS code.
 ![AbraOterminal](https://user-images.githubusercontent.com/88038755/161654352-724f3e9b-ac9b-4793-b2fa-4b7fb89a5bf9.jpeg)
 
 Abra o terminal do VS code e digite o seguinte comando:
+yarn create next-app ./
+
+para criar o projeto:
+
+![yarnCreate](https://user-images.githubusercontent.com/88038755/161655126-91e80ecc-f289-4bfe-9253-a15bd9db0d3c.jpeg)
+
+Para rodar o projeto, é usado o yarn dev
+
+![yarnDev](https://user-images.githubusercontent.com/88038755/161655462-6d85a4e1-7847-458a-947b-eafa5ea230bf.jpeg)
+
+Com esse comando é possivel ter acesso ao link para ver o resultado do desenvolvimento do projeto pelo navegador.
+
 
 
 
