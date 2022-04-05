@@ -13,7 +13,7 @@ export default function Home() {
           em 2023, tenho experiência em desenvolvimento Web
           (React, Asp, JS e outros), mobile e criação de conteúdo para o YouTube.
         </Intro>
-        <Link href="projects">
+        <Link href="projects" passHref>
           <LinkProjects>PROJETOS <FaArrowRight /></LinkProjects>
         </Link>
       </Infos>
