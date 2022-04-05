@@ -107,6 +107,7 @@ Para rodar o projeto, é usado o yarn dev
 ![yarnDev](https://user-images.githubusercontent.com/88038755/161655462-6d85a4e1-7847-458a-947b-eafa5ea230bf.jpeg)
 
 Com esse comando é possivel ter acesso ao link para ver o resultado do desenvolvimento do projeto pelo navegador.
+Copiando e colando a url no navegador.
 
 
 
